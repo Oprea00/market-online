@@ -1,0 +1,16 @@
+<h1 id='subtitle'>Home Page</h1>
+<input id="search-bar" type="search" [(ngModel)] = "searchText" placeholder="Find a product" (keyup.enter)="sendToSearch()">
+
+<section class="products">
+
+<div *ngFor="let product of productsList" class="product-card" (click)="sendProduct(product)"> 
+       
+    <div class="product-image">
+        <img [src]="product.imageUrl" />
+    </div>
+    <div class="product-info">
+        <h3>{{product.productName}}</h3>
+        <h4 class="price">{{product.productPrice}}</h4>
+    </div>
+</div>
+</section>

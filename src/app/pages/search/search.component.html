@@ -1,0 +1,19 @@
+<div id='page'>
+<h1 id="subtitle">Results for "{{productName}}"</h1>
+
+<section class="products">
+  
+    <div *ngFor="let product of filteredProducts" class="product-card" (click)="sendProduct(product)">
+       
+        <div class="product-image">
+            <img [src]="product.imageUrl" />
+        </div>
+        <div class="product-info">
+            <h3>{{product.productName}}</h3>
+            <h4 class="price">{{product.productPrice}}</h4>
+        </div>
+    </div>
+    
+
+</section>
+</div>

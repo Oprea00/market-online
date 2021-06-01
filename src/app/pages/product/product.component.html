@@ -1,0 +1,23 @@
+<div id="page">
+<div id="product-container">
+    <h1 id="product-name" [textContent]="product.name"></h1>
+    <hr>
+    <div id="product">
+        <div>
+        <img src="{{product.image}}" id="product-image">
+        </div>
+        <div id="product-info">
+            <p id="label-weight" style="font-size: 24px;">Weight: <span id="product-weight" [textContent]="product.weight"></span></p>
+            <p id="label-price" style="font-size: 24px;">Price: <span id="product-price" [textContent]="product.price"></span></p>
+          <!--  <h2 id="product-price" [textContent]="product.price"></h2> -->
+            <br>
+            <label for="quantity" style="font-size: 24px;">Quantity: </label> 
+            <select name="quantity" id="quantity" (change)="setQuantity($any($event.target).value)">
+                <option *ngFor="let q of quantities">{{q}}</option>
+            </select>
+            <br>
+            <button type="button" class="button" (click)="addToCart()">Add to cart</button>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,282 @@
+[ {
+    "productId":1,
+    "productName":"Milk",
+    "productWeight": "1L",
+    "productPrice": 3.99,                    
+    "imageUrl":"../../../assets/images/lapte2.jpg"
+ },
+{
+    "productId":2,
+    "productName":"Honey",
+    "productWeight": "900g",
+    "productPrice": 34.99,      
+    "imageUrl":"../../../assets/images/miere.jpg"
+ },
+ {
+    "productId":3,
+    "productName":"Cheese",
+    "productWeight": "150g",
+    "productPrice": 6.99,                    
+    "imageUrl":"../../../assets/images/cheese.jpg"
+ },
+ {
+    "productId":4,
+    "productName":"Icing Sugar",
+    "productWeight": "80g",
+    "productPrice": 1.52,                    
+    "imageUrl":"../../../assets/images/icing-sugar2.png"
+ },
+ {
+    "productId":5,
+    "productName":"Cinnamon",
+    "productWeight": "15g",
+    "productPrice": 3.45,                    
+    "imageUrl":"../../../assets/images/cinnamon2.jpg"
+ },
+ {
+   "productId":6,
+   "productName":"Eggs",
+   "productWeight": "10 count",
+   "productPrice": 15.00,                    
+   "imageUrl":"../../../assets/images/eggs.jpg"
+},
+{
+   "productId":7,
+   "productName":"Vanilla Extract",
+   "productWeight": "38ml",
+   "productPrice": 3.99,      
+   "imageUrl":"../../../assets/images/vanilie.jpg"
+},
+{
+   "productId":8,
+   "productName":"Butter 65% fat",
+   "productWeight": "200g",
+   "productPrice": 7.99,                    
+   "imageUrl":"../../../assets/images/unt.jpg"
+},
+{
+   "productId":9,
+   "productName":"Sunflower Oil",
+   "productWeight": "1L",
+   "productPrice": 8.04,                    
+   "imageUrl":"../../../assets/images/oil.jpg"
+},
+{
+   "productId":10,
+   "productName":"Frozen Berries",
+   "productWeight": "300g",
+   "productPrice": 7.09,                    
+   "imageUrl":"../../../assets/images/frozen-berries.jpg"
+},
+{
+   "productId":11,
+   "productName":"Sugar",
+   "productWeight": "1Kg",
+   "productPrice": 2.58,                    
+   "imageUrl":"../../../assets/images/zahar.jpg"
+},
+{
+  "productId":12,
+  "productName":"Spaghetti",
+  "productWeight": "500g",
+  "productPrice": 4.50,                    
+  "imageUrl":"../../../assets/images/spaghetti.jpg"
+},
+{
+  "productId":13,
+  "productName":"Rice",
+  "productWeight": "1Kg",
+  "productPrice": 5.99,      
+  "imageUrl":"../../../assets/images/rice.jpg"
+},
+{
+  "productId":14,
+  "productName":"Flour",
+  "productWeight": "1Kg",
+  "productPrice": 2.99,                    
+  "imageUrl":"../../../assets/images/faina.jpg"
+},
+{
+  "productId":15,
+  "productName":"Baking powder",
+  "productWeight": "10g",
+  "productPrice": 0.99,                    
+  "imageUrl":"../../../assets/images/praf-copt.jpg"
+},
+{
+   "productId":16,
+   "productName":"Salt",
+   "productWeight": "500g",
+   "productPrice": 6.99,      
+   "imageUrl":"../../../assets/images/salt.jpg"
+ },
+ {
+   "productId":17,
+   "productName":"Oat flakes",
+   "productWeight": "500g",
+   "productPrice": 1.99,                    
+   "imageUrl":"../../../assets/images/oat.jpg"
+ },
+ {
+   "productId":18,
+   "productName":"Sour cream",
+   "productWeight": "300g",
+   "productPrice": 7.16,                    
+   "imageUrl":"../../../assets/images/smantana.jpg"
+ },
+ {
+   "productId":19,
+   "productName":"Tortilla 6 Wraps ",
+   "productWeight": "6 count",
+   "productPrice": 6.99,                    
+   "imageUrl":"../../../assets/images/wrap.jpg"
+ },
+ {
+   "productId":20,
+   "productName":"Salsa Hot",
+   "productWeight": "300g",
+   "productPrice": 8.16,                    
+   "imageUrl":"../../../assets/images/salsa.jpg"
+ }
+ ,
+{
+   "productId":21,
+   "productName":"Avocado",
+   "productWeight": "1 count",
+   "productPrice": 6.99,      
+   "imageUrl":"../../../assets/images/avocado.jpg"
+ },
+ {
+   "productId":22,
+   "productName":"Bean",
+   "productWeight": "400g",
+   "productPrice": 7.04,                    
+   "imageUrl":"../../../assets/images/bean.jpg"
+ },
+ {
+   "productId":23,
+   "productName":"Green Peas",
+   "productWeight": "400g",
+   "productPrice": 6.59,                    
+   "imageUrl":"../../../assets/images/mazare.jpg"
+ },
+ {
+   "productId":24,
+   "productName":"Sweet Corn",
+   "productWeight": "340g",
+   "productPrice": 5.99,                    
+   "imageUrl":"../../../assets/images/corn.jpg"
+ },
+ {
+   "productId":25,
+   "productName":"Sliced Mushrooms",
+   "productWeight": "750g",
+   "productPrice": 10.00,                    
+   "imageUrl":"../../../assets/images/ciuperci.jpg"
+ },
+{
+   "productId":26,
+   "productName":"Nutella",
+   "productWeight": "400g",
+   "productPrice": 11.66,      
+   "imageUrl":"../../../assets/images/nutella.jpg"
+ },
+ {
+   "productId":27,
+   "productName":"Dry Yeast",
+   "productWeight": "7g",
+   "productPrice": 1.02,                    
+   "imageUrl":"../../../assets/images/drojdie.jpg"
+ },
+ {
+   "productId":28,
+   "productName":"Water",
+   "productWeight": "2L",
+   "productPrice": 2.59,                    
+   "imageUrl":"../../../assets/images/apa.jpg"
+ },
+ {
+   "productId":29,
+   "productName":"Black Pepper",
+   "productWeight": "50g",
+   "productPrice": 14.70,                    
+   "imageUrl":"../../../assets/images/piper.jpg"
+ },
+ {
+   "productId":30,
+   "productName":"Olive Oil",
+   "productWeight": "1L",
+   "productPrice": 37.99,                    
+   "imageUrl":"../../../assets/images/olive-oil.jpg"
+ },
+ {
+    "productId":31,
+    "productName":"Cornmeal",
+    "productWeight": "1Kg",
+    "productPrice": 1.36,      
+    "imageUrl":"../../../assets/images/cornmeal.jpg"
+  },
+  {
+    "productId":32,
+    "productName":"Tomato Sauce",
+    "productWeight": "400g",
+    "productPrice": 7.49,                    
+    "imageUrl":"../../../assets/images/sos-rosii.jpg"
+  },
+  {
+    "productId":33,
+    "productName":"Tuna",
+    "productWeight": "240g",
+    "productPrice": 25.09,                    
+    "imageUrl":"../../../assets/images/ton.jpg"
+  },
+  {
+    "productId":34,
+    "productName":"Pesto",
+    "productWeight": "190g",
+    "productPrice": 11.29,                    
+    "imageUrl":"../../../assets/images/pesto.jpg"
+  },
+  {
+    "productId":35,
+    "productName":"Black Olives",
+    "productWeight": "397g",
+    "productPrice": 6.99,                    
+    "imageUrl":"../../../assets/images/masline.jpg"
+  },
+  {
+     "productId":36,
+     "productName":"Bicarbonate of Soda",
+     "productWeight": "50g",
+     "productPrice": 1.43,      
+     "imageUrl":"../../../assets/images/sodiu.jpg"
+   },
+   {
+     "productId":37,
+     "productName":"Cocoa Powder",
+     "productWeight": "250g",
+     "productPrice": 15.22,                    
+     "imageUrl":"../../../assets/images/cacao.jpg"
+   },
+   {
+     "productId":38,
+     "productName":"Plain Chocolate",
+     "productWeight": "205g",
+     "productPrice": 9.99,                    
+     "imageUrl":"../../../assets/images/cioco.jpg"
+   },
+   {
+     "productId":39,
+     "productName":"Peanut Butter",
+     "productWeight": "225g",
+     "productPrice": 20.29,                    
+     "imageUrl":"../../../assets/images/peanut-butter.jpg"
+   },
+   {
+     "productId":40,
+     "productName":"Hazelnuts",
+     "productWeight": "140g",
+     "productPrice": 20.49,                    
+     "imageUrl":"../../../assets/images/alune.jpg"
+   }
+]

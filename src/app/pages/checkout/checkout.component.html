@@ -1,0 +1,38 @@
+<div id="page">
+    <h1>Checkout page</h1>
+
+<section id="checkout">
+    <div id="display-items">
+        <div id="text">
+            <h4 id="textt">YOUR ITEMS</h4>
+        </div>
+        <div id="description">
+            <h3 id="desc-p">Product</h3>
+            <h3 id="desc-q">Quantity</h3>
+            <h3 id="desc-price">Price</h3>
+        </div>
+        <div *ngFor="let product of cart" id="item" class="row">
+            <div id="product-image" class="column">
+                <img [src]="product.image">
+            </div>
+            <div id="product-info" class="column">
+                <h2 id="name">{{product.name}} {{product.weight}}</h2>          
+            </div>
+            <div id="product-quantity" class="column">
+                <h3 id="quantity">{{product.quantity}}</h3>
+            </div>
+            <div id="product-price" class="column">
+                <h3 id="price">{{product.price}}</h3>
+            </div>
+        </div>
+        <div id="total-box">
+            <h3 id="total-text">GRAND TOTAL:</h3>
+            <h2  id="total">{{totalPrice | number : '.2-2'}}</h2>
+        </div>
+    </div>
+
+    <div>
+        <button id="checkout-button" [routerLink]="'/confirmation'">Place Order</button>
+    </div>
+</section>
+</div>

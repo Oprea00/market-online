@@ -1,0 +1,171 @@
+#page{
+    background:#FFFFFF;
+}
+
+
+#display-items{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid #3F3A36;
+    width: auto;
+    background-color: #fdfdfd;/* #EDEFF0; */
+}
+
+h2,h3,h4{
+    margin: 0;
+}
+
+#text{
+    height: 50px;
+    background-color: #3F3A36; /* #5D88BB; */
+    color: white;
+   /* border-radius: 10px 10px 0px 0px; */
+}
+
+#textt{
+    padding-top: 14px;
+    padding-left: 15px;
+}
+
+#description{
+    height: 30px;
+    padding-top: 5px;
+    border-bottom: 1px solid gray;
+}
+
+#desc-p{
+    padding-left: 55px;
+    display: inline;
+    
+}
+
+#desc-q{
+    display: inline;
+    padding-left: 437px;
+    
+}
+
+#desc-price{
+    display: inline;
+    padding-left: 195px;
+    
+}
+
+#item{
+    width: auto;
+    height: 150px;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    margin-top: 3px;
+
+}
+
+#product-image{
+    width: 145px;
+    height: 145px;
+/*    float: left; */
+    padding-left: 15px;
+    margin-right: 100px;
+    padding-top: 5px;
+    
+}
+
+img{
+    width: 135px;
+    height: 135px; 
+}
+
+#product-info{
+    width: 205px;
+    height: 145px;
+    text-align: center;
+/*    display: inline-block; */
+    
+    margin-right: 100px;
+}
+
+#name{
+    padding-top: 50px;
+}
+
+/*#product-price{
+    margin-left: 50px; 
+}  */
+
+#price{
+    color: #008CBA;
+    padding-top: 60px;
+    padding-left: 120px;
+}
+
+#product-quantity{
+    width: 145px;
+    height: 145px;
+/*    display: inline-block;
+    margin-right: 100px;   
+    padding-top: 6px;  */
+    justify-content: center;
+    align-items: center;
+}
+
+#quantity{
+    margin-left: 10px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+.column {
+    float: left;
+    width: 20%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #remove{
+    padding-top: 52px;
+    padding-left: 80px;
+    height: 42px;
+    width: 42px;
+    cursor: pointer;
+ }
+
+  #checkout-button{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 40px;
+    border-radius: 4px;
+    padding:0.7em 1.4em;
+    border-radius: 0.15em;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 700;
+    font-size: medium;
+    color: #FFFFFF;
+    background-color: #e10707;
+  }
+
+#total-box{
+    height: 50px;
+    padding-top: 20px;
+}
+
+#total-text{
+  margin-left: 520px;
+  display: inline;
+}
+
+#total{
+    margin-left: 160px;
+    display: inline;
+    color: red;
+}

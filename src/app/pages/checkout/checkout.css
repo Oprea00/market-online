@@ -1,0 +1,165 @@
+#page{
+    background-color: white;
+}
+
+
+#display-items{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid #3F3A36;
+    width: auto;
+    background-color: #fdfdfd;
+}
+
+h2,h3,h4{
+    margin: 0;
+}
+
+#text{
+    height: 50px;
+    background-color: #3F3A36;
+    color: white;
+}
+
+#textt{
+    padding-top: 14px;
+    padding-left: 15px;
+}
+
+#description{
+    height: 30px;
+    padding-top: 5px;
+    border-bottom: 1px solid gray;
+}
+
+#desc-p{
+    padding-left: 55px;
+    display: inline;
+    
+}
+
+#desc-q{
+    display: inline;
+    padding-left: 537px;
+    
+}
+
+#desc-price{
+    display: inline;
+    padding-left: 235px;
+    
+}
+
+#item{
+    width: auto;
+    height: 150px;
+    background-color: white;
+    margin-top: 3px;
+    border-bottom: 1px solid gray;
+    
+}
+
+#product-image{
+    width: 145px;
+    height: 145px;
+    padding-left: 15px;
+    margin-right: 100px;
+    padding-top: 5px;
+    
+}
+
+img{
+    width: 135px;
+    height: 135px; 
+}
+
+#product-info{
+    width: 205px;
+    height: 145px; 
+    text-align: center;
+/*    display: inline-block; */
+    
+    margin-right: 100px;
+}
+
+#name{
+    padding-top: 50px;
+}
+
+/*#product-price{
+    margin-left: 50px; 
+}  */
+
+#price{
+    color: #008CBA;
+    padding-top: 60px;
+    padding-left: 260px;
+}
+
+#product-quantity{
+    width: 145px;
+    height: 145px;
+ /*   display: inline-block;
+    margin-right: 100px;   
+    padding-top: 6px;  */
+    justify-content: center;
+    align-items: center;
+}
+
+#quantity{
+    padding-left: 120px;
+    padding-top: 60px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #remove{
+    padding-top: 50px;
+    padding-left: 80px;
+  }
+
+  #checkout-button{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 40px;
+    border-radius: 4px;
+    padding:0.7em 1.4em;
+    border-radius: 0.15em;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 700;
+    font-size: medium;
+    color: #FFFFFF;
+    background-color: #e10707;
+  }
+
+  #total-box{
+      height: 50px;
+      padding-top: 20px;
+  }
+
+  #total-text{
+    margin-left: 620px;
+    display: inline;
+  }
+
+  #total{
+      margin-left: 200px;
+      display: inline;
+      color: red;
+  }
