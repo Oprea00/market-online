@@ -1,5 +1,5 @@
 <div id="page">
-    <h1>Shopping basket</h1>
+    <h1 style="color: white">Shopping basket</h1>
 
 <section id="shopping-cart">
     <div id="display-items">
@@ -16,12 +16,12 @@
                 <img [src]="product.image">
             </div>
             <div id="product-info" class="column">
-                <h2 id="name">{{product.name}} {{product.weight}}</h2>          
+                <h2 id="name">{{product.name}} {{product.weight}}</h2>
             </div>
             <div id="product-quantity" class="column">
                <!-- <h3 id="quantity">{{product.quantity}}</h3> -->
                 <select name="quantity" id="quantity" (change)="setQuantity($any($event.target).value, product.id)">
-                    <option selected hidden>{{product.quantity}}</option> 
+                    <option selected hidden>{{product.quantity}}</option>
                     <option *ngFor="let q of quantities">{{q}}</option>
                 </select>
             </div>
