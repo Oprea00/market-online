@@ -14,17 +14,17 @@
  },
  {
     "productId":3,
-    "productName":"Cheese",
+    "productName":"Strong Cheddar",
     "productWeight": "150g",
     "productPrice": 6.99,
     "imageUrl":"../../../assets/images/cheese.jpg"
  },
  {
     "productId":4,
-    "productName":"Icing Sugar",
-    "productWeight": "80g",
-    "productPrice": 1.52,
-    "imageUrl":"../../../assets/images/icing-sugar2.png"
+    "productName":"Sugar",
+    "productWeight": "1Kg",
+    "productPrice": 2.58,
+    "imageUrl":"../../../assets/images/zahar.jpg"
  },
  {
     "productId":5,
@@ -56,7 +56,7 @@
 },
 {
    "productId":9,
-   "productName":"Sunflower Oil",
+   "productName":"Vegetable Oil",
    "productWeight": "1L",
    "productPrice": 8.04,
    "imageUrl":"../../../assets/images/oil.jpg"
@@ -70,10 +70,10 @@
 },
 {
    "productId":11,
-   "productName":"Sugar",
-   "productWeight": "1Kg",
-   "productPrice": 2.58,
-   "imageUrl":"../../../assets/images/zahar.jpg"
+   "productName":"Icing Sugar",
+   "productWeight": "80g",
+   "productPrice": 1.52,
+   "imageUrl":"../../../assets/images/icing-sugar2.png"
 },
 {
   "productId":12,
@@ -91,14 +91,14 @@
 },
 {
   "productId":14,
-  "productName":"Flour",
+  "productName":"Plain Flour",
   "productWeight": "1Kg",
   "productPrice": 2.99,
   "imageUrl":"../../../assets/images/faina.jpg"
 },
 {
   "productId":15,
-  "productName":"Baking powder",
+  "productName":"Baking Powder",
   "productWeight": "10g",
   "productPrice": 0.99,
   "imageUrl":"../../../assets/images/praf-copt.jpg"
@@ -112,14 +112,14 @@
  },
  {
    "productId":17,
-   "productName":"Oat flakes",
+   "productName":"Oat Flakes",
    "productWeight": "500g",
    "productPrice": 1.99,
    "imageUrl":"../../../assets/images/oat.jpg"
  },
  {
    "productId":18,
-   "productName":"Sour cream",
+   "productName":"Sour Cream",
    "productWeight": "300g",
    "productPrice": 7.16,
    "imageUrl":"../../../assets/images/smantana.jpg"
@@ -211,10 +211,10 @@
  },
  {
     "productId":31,
-    "productName":"Cornmeal",
-    "productWeight": "1Kg",
-    "productPrice": 1.36,
-    "imageUrl":"../../../assets/images/cornmeal.jpg"
+    "productName":"Almond Milk",
+    "productWeight": "1L",
+    "productPrice": 12.36,
+    "imageUrl":"../../../assets/images/almond.jpg"
   },
   {
     "productId":32,
@@ -260,10 +260,10 @@
    },
    {
      "productId":38,
-     "productName":"Plain Chocolate",
-     "productWeight": "205g",
-     "productPrice": 9.99,
-     "imageUrl":"../../../assets/images/cioco.jpg"
+     "productName":"Double Cream",
+     "productWeight": "500ml",
+     "productPrice": 14.99,
+     "imageUrl":"../../../assets/images/cream.jpg"
    },
    {
      "productId":39,
@@ -274,9 +274,9 @@
    },
    {
      "productId":40,
-     "productName":"Hazelnuts",
-     "productWeight": "140g",
-     "productPrice": 20.49,
-     "imageUrl":"../../../assets/images/alune.jpg"
+     "productName":"Walnut Halves",
+     "productWeight": "100g",
+     "productPrice": 24.49,
+     "imageUrl":"../../../assets/images/walnut.jpg"
    }
 ]
